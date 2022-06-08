@@ -1,4 +1,5 @@
 # StudyOracle
+2022 빅데이터 분석 과정 - 오라클 기초 학습
 
 ## Day 1
 - 기본 SELECT문
